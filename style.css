@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/lib/bg-intro-desktop.png);
+  background-image: url(./lib/bg-intro-desktop.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
